@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "a180aa05ed2cd64b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a04c4f64890a60f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f01d943352d0e0bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3b4e349a0df5847e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a5c2ec8832b0eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios del SAI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejercicios del SAI"
+            }
+          },
+          {
+            "id": "8cd13c02cd249ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seguridad Informatica/Tema 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tema 2"
+            }
+          },
+          {
+            "id": "5b80abacae5d0996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seguridad Informatica/Tema 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tema 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae2d240af36b2893",
+    "type": "split",
+    "children": [
+      {
+        "id": "3195c9f936ed9a85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4e3711811566a7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "51ccfd4394aa5b58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "0c2c5e68ab6808c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "efdcfcebd146aec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eda59dfc8314431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d174f43c44a323fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ejercicios del SAI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Ejercicios del SAI"
+            }
+          },
+          {
+            "id": "ed5d6ed0dc38e8f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ejercicios del SAI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Ejercicios del SAI"
+            }
+          },
+          {
+            "id": "63ee4b361433de24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f6c9a0ad5ccd0336",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ejercicios del SAI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Ejercicios del SAI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "9a5c2ec8832b0eac",
+  "lastOpenFiles": [
+    "Seguridad Informatica/Tema 2.md",
+    "Ejercicios del SAI.md",
+    "Pasted image 20251010102628.png",
+    "Pasted image 20251010102519.png",
+    "Pasted image 20251010100307.png",
+    "Seguridad Informatica/Tipos de SAI.md",
+    "Seguridad Informatica/Ejercicios de Sai",
+    "Pasted image 20251010093517.png",
+    "Pasted image 20251010093352.png",
+    "Pasted image 20251010093319.png",
+    "Bienvenido.md",
+    "Seguridad Informatica"
+  ]
+}
