@@ -11,14 +11,12 @@
             "id": "5c71deb12a0f565a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "SMR2A/Seguridad Informatica/Tema 2.md",
-                "mode": "source",
-                "source": false
+                "file": "SMR2A/Seguridad Informatica/Tema 3/MindMap.md"
               },
-              "icon": "lucide-file",
-              "title": "Tema 2"
+              "icon": "blocks",
+              "title": "MindMap"
             }
           }
         ]
@@ -170,5 +168,13 @@
     }
   },
   "active": "5c71deb12a0f565a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "SMR2A/Seguridad Informatica/Tema 2/Tema 2.md",
+    "SMR2A/Seguridad Informatica/Tema 3/MindMap.md",
+    "SMR2A/Seguridad Informatica/Tema 2/Ejercicios del SAI.md",
+    "SMR2A/Seguridad Informatica/Tema 2",
+    "SMR2A/Seguridad Informatica/Tema 3",
+    "SMR2A/Seguridad Informatica/TEMA 3.md",
+    "SMR2A/Seguridad Informatica/Tema 2/Tipos de SAI.md"
+  ]
 }
