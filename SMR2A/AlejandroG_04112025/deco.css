@@ -1,0 +1,83 @@
+body{
+    position: relative;
+    position: center;
+    background-color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 20%px;
+    border-color: black;
+    border-style: dotted;
+    
+}
+aside{
+    color: brown;
+    color: rgba(red, green, blue, alpha 40%);
+    outline: 2px;
+    outline-color: yellow;
+    outline-style: dotted;
+}
+section.manolo{
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 50%;
+    border-style: groove;
+    border-color: greenyellow;
+    border-width: 10px;
+    position: sticky;
+}
+section.clase{
+    padding-bottom: 30px;
+    border-color: orangered;
+    border-style: solid;
+
+}
+div.ping{
+background-image: linear-gradient(to right,red,yellow);
+position: absolute;
+left: 0;
+box-shadow: 3px 3px 3px rgb(73, 250, 2), 6px 6px 6px blue, 9px 9px 9px yellow;
+
+}
+div.mario{
+background-image: linear-gradient(to left, red 10px,yellow 4px, green 2px,pink,blue,orange);
+position: absolute;
+top:140%;
+}
+div.BF{
+background-image: repeating-radial-gradient(rgb(220, 224, 231), rgb(32, 20, 97));
+position: absolute;
+top:400%;
+}
+div.Bf {
+background-image: repeating-radial-gradient(red,blue 10%, green 15%);
+  position: absolute;
+  top: 125%;
+  left: 90%;
+}
+div.ale {
+background-image: conic-gradient(red 45deg,blue 15deg, green 2deg, yellow, black);
+  position: absolute;
+  right: 15%;
+  border-radius: 55%;
+  box-shadow: 3px 3px;
+}
+div.al3 {
+background-image: conic-gradient(at 60% 45%, green 90deg, yellow -90deg 180deg , red 180deg 270deg , blue 270deg 360deg);
+  position: absolute;
+  right: 1%;
+  border-radius: 100%;
+}
+div.leo {
+background-image: repeating-conic-gradient( yellow 0deg 15deg , red 15deg 30deg , blue 30deg 45deg);
+  position: absolute;
+  top: 200%;
+  box-shadow: 3px 3px;
+}
+div.manuel {
+background-image: repeating-conic-gradient( yellow 10% , red 20%);
+  position: absolute;
+  left: 1%;
+  border-radius: 100%;
+}
+ul{
+    text-shadow: 1px 1px cyan,-1px -1px cyan, -1px 0px cyan, 0px -1px cyan;
+}

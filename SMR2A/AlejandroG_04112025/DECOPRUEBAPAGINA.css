@@ -1,0 +1,21 @@
+body{
+    position: center;
+    background: linear-gradient( rgb(250, 246, 8),rgb(68, 68, 4));
+}
+div.titulo{
+    text-align: center;
+}
+div.imagen{
+    text-align: center;
+}
+div.textoimg{
+    text-align: center;
+}
+p.textcolorimg{
+    color: aliceblue;
+    text-decoration: underline;
+    background-color: black;
+}
+div.titulo{
+    
+}

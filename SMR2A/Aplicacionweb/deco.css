@@ -1,0 +1,32 @@
+body{
+    position: relative;
+    color: blue;
+    position: center;
+    background-color: cadetblue;
+    background-image: linear-gradient(to botton, red,yellow);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 20%px;
+    border-color: black;
+    border-style: dotted;
+}
+aside{
+    color: brown;
+    color: rgba(red, green, blue, alpha 40%);
+    outline: 2px;
+    outline-color: yellow;
+    outline-style: dotted;
+}
+section.manolo{
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 50%;
+    border-style: groove;
+    border-color: greenyellow;
+    border-width: 10px;
+    position: sticky;
+}
+section.clase{
+    padding-bottom: 30px;
+    border-color: orangered;
+    border-style: solid;
+}

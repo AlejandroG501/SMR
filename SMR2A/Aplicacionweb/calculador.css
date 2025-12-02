@@ -1,0 +1,96 @@
+body
+{
+background-color:#f2f2f2;
+font-family: Arial, sans-serif;
+}
+
+ul {
+display: inline-block; 
+list-style-type: none; 
+padding: 0;
+}
+
+li {
+display: inline-block; 
+margin-right: 20px; 
+font-size: 18px;
+}
+
+a
+{
+width: 80%;
+text-decoration:none;
+padding: 10px 30px;
+cursor: pointer;
+border: 0;
+border-radius: 10px;
+border:2px solid black;
+font-size:18px;
+color:white;
+background-color: green;
+font-weight: bold;
+margin-bottom:5%;
+}
+
+form {
+   
+width: 400px; 
+margin: 2em auto;
+padding: 2em;
+border-radius: 6px;
+border:0.1em solid black;
+text-align:center;
+}
+
+.CajaTexto{
+width: 100%;
+padding: 10px;
+font-size:1em;
+border-radius:5px;
+border:1px solid black;
+color:black;
+}
+.BtnCalcular
+{
+width: 100%;
+padding: 10px 30px;
+cursor: pointer;
+border: 0;
+border-radius: 10px;
+border:1px solid black;
+font-size:18px;
+color:white;
+background-color: #1B68DF;
+font-weight: bold;
+margin-bottom:5%;
+}
+
+.BtnNumerosGG
+{
+width:100%;
+padding: 10px 30px;
+cursor: pointer;
+border: 0;
+border-radius: 10px;
+border:1px solid black;
+font-size:18px;
+font-weight: bold;
+margin-bottom:5%;
+}
+table
+{
+	width:100%;
+	text-align:center;
+}
+.BtnNumeros3
+{
+width:20%;
+padding: 10px 30px;
+cursor: pointer;
+border: 0;
+border-radius: 10px;
+border:1px solid black;
+font-size:18px;
+font-weight: bold;
+margin-bottom:5%;
+}

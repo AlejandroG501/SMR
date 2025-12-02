@@ -1,0 +1,29 @@
+ul{
+    position: fixed;
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    width: 20%;
+    }
+li a{
+    margin:5px;
+    text-decoration: none;
+    padding: 8px 16px;
+    display: block;
+    background-color: #999899;
+}
+li a:hover{
+    background-color: black;
+    color: white; 
+}
+li a:active{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+div.lista{
+    display: none;
+    position: absolute;
+}
+li.list:hover div.lista{
+    display: block;
+}

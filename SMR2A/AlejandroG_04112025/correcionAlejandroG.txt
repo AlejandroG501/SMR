@@ -1,0 +1,35 @@
++1 Doctype
++1 meta charset utf-8
+-1 en comentar
++1 en ul y ol
++0,5 table
++1 a
+-1 form
++1 img
+-1 audio
+-1 video
++1 div
++1 class
++0,5 title
++0,25 p
++0,25 h
+
+4,5/15
+3/10
+
+------------------------
++1 background color
++1 padding
+-1 margin
++1 border
++0,5 rgba
++1 position
+link -0,5
+listas -0,5
+-1  menu desplegable
++1 color
+
+2,5/10
+
+
+
