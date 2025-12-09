@@ -1,0 +1,150 @@
+body{
+    position: center;
+    background-color: rgba(190, 172, 4, 0.993);
+    background-image:url(Borderlands-Symbol.png);
+    background-size: 300px;
+}
+div.cuerpo{
+    background-color: rgba(0, 0, 0, 0.644);
+    background-size: cover;
+    background-repeat: repeat;
+    border-radius: 3%;
+
+}
+div.imagen{
+    text-align: center;
+}
+div.textoimg{
+    text-align: center;
+}
+p.textcolorimg{
+    color: aliceblue;
+    text-decoration: underline;
+    background-color: rgba(147, 161, 13, 0.801);
+}
+div.tituloo{
+    background-color: rgb(182, 185, 5);
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+    -webkit-text-stroke: 0.3px black;
+    text-shadow: 1px 1px 0px #000000c2;
+}
+div.quees{
+    margin: 0% auto;
+    font-weight: 200;
+    width: 50%;
+    left: 30%;
+    color: #ffffff;
+}
+div.info{
+    margin: 0% auto;
+    text-align: center;
+    color: aliceblue;
+    width: fit-content;
+    right: 90%;
+    top: 10%;
+}
+p.text{
+    font-size: larger;
+    text-align: center;
+    font-style: italic;
+}
+div.indice{
+    top: 90%;
+    left:45%;
+    color: #ffffff;
+}
+article{
+    position: absolute;
+    top:1%;
+    left:80%;
+    background-color: rgb(173, 185, 7);
+    text-align: center;
+    border-style: dashed;
+    border-radius: 10%;
+    color: aliceblue;
+}
+aside{
+    position: absolute;
+    top:20%;
+    left:85%;
+    background-color: rgb(158, 168, 7);
+    text-align: center;
+    border-style: dotted;
+    border-radius: 5%;
+    color: #ffffff;
+}
+h1.trofeo{
+    text-align: center;
+    bottom: -360px;
+    left: 36%;
+    background-color: rgb(169, 172, 6);
+    color: white;
+}
+div.platino
+{
+    text-align: center;   
+    margin: 20px auto;    
+    background-color: black;
+    color: #ffffff;
+    width: fit-content;   
+}
+p.juego{
+    height: 10px;
+
+}
+a{
+    color: aqua;
+}
+/* Estilo del menú principal */
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu > li {
+    position: relative;
+    display: inline-block;
+}
+
+/* Estilo del enlace principal */
+.menu > li > a {
+    text-decoration: none;
+    background: #ced108;
+    color: #fff;
+    padding: 10px 20px;
+    display: block;
+    border-radius: 5px;
+}
+
+/* Submenú oculto */
+.submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    list-style: none;
+    background: #333333;
+    padding: 0;
+    margin: 0;
+    border-radius: 5px;
+}
+
+/* Estilo de los enlaces del submenú */
+.submenu li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    display: block;
+}
+
+.submenu li a:hover {
+    background: #d0ff00;
+}
+
+/* Mostrar submenú al pasar el ratón */
+.menu > li:hover .submenu {
+    display: block;
+}

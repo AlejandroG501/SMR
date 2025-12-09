@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #9ead11;
+  color: #eee;
+  text-align: center;
+  padding: 40px;
+}
+
+button {
+  background: rgb(251, 255, 0);
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #000000;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#resultado {
+  margin-top: 20px;
+  background: #333;
+  padding: 15px;
+  border-radius: 8px;
+}
+.loot-table {
+  margin: 20px auto; /* centra horizontalmente */
+  border-collapse: collapse;
+  width: 80%; /* ajusta el ancho */
+  background: rgba(20, 20, 20, 0.9);
+  color: #eee;
+  box-shadow: 0 0 10px #000;
+}
+
+.loot-table th, .loot-table td {
+  border: 1px solid #444;
+  padding: 10px;
+  text-align: center;
+}
+
+.loot-table th {
+  background: #fbff00;
+  color: #fff;
+  text-shadow: 1px 1px 2px #000;
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html> <!-- Indica que el documento es HTML5 -->
+<html lang="es"> <!-- Lenguaje principal de la página -->
+<head>
+  <meta charset="UTF-8"> <!-- Configuración de caracteres (acentos, ñ, etc.) -->
+  <title>Borderlands 2 Arma Simple</title> <!-- Título que aparece en la pestaña del navegador -->
+  <link rel="stylesheet" href="loot.css"> <!-- Archivo CSS externo para estilos -->
+</head>
+<body>
+  <!-- Título principal de la página -->
+  <h1>Generador de Armas<br>(El porcentaje que se muestra es del juego no de la página)</h1>
+  
+  <!-- Botón que ejecuta la función mostrarArma() definida en loot.js -->
+  <button onclick="mostrarArma()">Generar Arma</button>
+  
+  <!-- Aquí se mostrará el resultado generado por JavaScript -->
+  <div id="resultado"></div>
+
+  <!-- Archivo JavaScript externo que contiene la lógica del generador -->
+  <script src="loot.js"></script>
+
+  <!-- Contenedor para la tabla de rarezas -->
+  <div class="container">
+    <h1>Rarezas de Loot - Borderlands 2</h1>
+    
+    <!-- Tabla con las probabilidades de obtener cada tipo de loot -->
+    <table class="loot-table">
+      <thead>
+        <tr>
+          <th>Rareza</th> <!-- Tipo de objeto -->
+          <th>Porcentaje Base</th> <!-- Probabilidad normal -->
+          <th>Con Vault Hunter's Relic</th> <!-- Probabilidad con reliquia equipada -->
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Común</td>
+          <td>89.9%</td>
+          <td>84.77%</td>
+        </tr>
+        <tr>
+          <td>Poco común</td>
+          <td>8.99%</td>
+          <td>13.56%</td>
+        </tr>
+        <tr>
+          <td>Raro</td>
+          <td>0.89%</td>
+          <td>1.35%</td>
+        </tr>
+        <tr>
+          <td>Muy raro</td>
+          <td>0.089%</td>
+          <td>0.135%</td>
+        </tr>
+        <tr>
+          <td>Legendario</td>
+          <td>0.027%</td>
+          <td>0.0407%</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
